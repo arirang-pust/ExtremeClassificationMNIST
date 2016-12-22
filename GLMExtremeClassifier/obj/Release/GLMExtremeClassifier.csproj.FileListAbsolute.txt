@@ -1,0 +1,8 @@
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Release\Mine.Engines.Classifiers.GLMExtremeClassifier.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Release\Mine.Engines.Classifiers.GLMExtremeClassifier.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Release\DotNumerics.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Release\DotNumerics.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Release\DotNumerics.xml
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\obj\Release\Mine.Engines.Classifiers.GLMExtremeClassifier.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\obj\Release\Mine.Engines.Classifiers.GLMExtremeClassifier.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\obj\Release\GLMExtremeClassifier.csprojResolveAssemblyReference.cache

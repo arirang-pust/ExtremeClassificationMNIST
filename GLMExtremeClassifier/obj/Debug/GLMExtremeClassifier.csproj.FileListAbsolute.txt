@@ -1,0 +1,12 @@
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNISTDemo\GLMExtremeClassifier\bin\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNISTDemo\GLMExtremeClassifier\bin\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNISTDemo\GLMExtremeClassifier\obj\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNISTDemo\GLMExtremeClassifier\obj\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Debug\DotNumerics.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Debug\DotNumerics.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\bin\Debug\DotNumerics.xml
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\obj\Debug\GLMExtremeClassifier.csprojResolveAssemblyReference.cache
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\obj\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMExtremeClassifier\obj\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.pdb

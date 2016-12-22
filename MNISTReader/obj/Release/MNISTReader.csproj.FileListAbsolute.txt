@@ -1,0 +1,4 @@
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\MNISTReader\bin\Release\Mine.Data.Readers.MNISTReader.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\MNISTReader\bin\Release\Mine.Data.Readers.MNISTReader.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\MNISTReader\obj\Release\Mine.Data.Readers.MNISTReader.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\MNISTReader\obj\Release\Mine.Data.Readers.MNISTReader.pdb

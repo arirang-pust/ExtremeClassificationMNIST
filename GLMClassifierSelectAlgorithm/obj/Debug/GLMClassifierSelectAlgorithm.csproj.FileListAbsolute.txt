@@ -1,0 +1,12 @@
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\Mine.Engines.Algorithms.GLMClassifierSelectAlgorithm.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\Mine.Engines.Algorithms.GLMClassifierSelectAlgorithm.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\Mine.Data.Readers.MNISTReader.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\DotNumerics.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\Mine.Engines.Classifiers.GLMExtremeClassifier.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\Mine.Data.Readers.MNISTReader.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\DotNumerics.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\bin\Debug\DotNumerics.xml
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\obj\Debug\GLMClassifierSelectAlgorithm.csprojResolveAssemblyReference.cache
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\obj\Debug\Mine.Engines.Algorithms.GLMClassifierSelectAlgorithm.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\GLMClassifierSelectAlgorithm\obj\Debug\Mine.Engines.Algorithms.GLMClassifierSelectAlgorithm.pdb

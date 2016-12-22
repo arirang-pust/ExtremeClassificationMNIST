@@ -1,0 +1,8 @@
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNISTDemo\MNISTReader\bin\Debug\Mine.Data.Readers.MNISTReader.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNISTDemo\MNISTReader\bin\Debug\Mine.Data.Readers.MNISTReader.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNISTDemo\MNISTReader\obj\Debug\Mine.Data.Readers.MNISTReader.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNISTDemo\MNISTReader\obj\Debug\Mine.Data.Readers.MNISTReader.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\MNISTReader\bin\Debug\Mine.Data.Readers.MNISTReader.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\MNISTReader\bin\Debug\Mine.Data.Readers.MNISTReader.pdb
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\MNISTReader\obj\Debug\Mine.Data.Readers.MNISTReader.dll
+E:\Workspace set\Workspace(the others'）\KHI\ExtremeClassificationMNIST\MNISTReader\obj\Debug\Mine.Data.Readers.MNISTReader.pdb
